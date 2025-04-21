@@ -49,13 +49,15 @@ OpenAI GPT 및 DALL·E 모델, 사전 구성된 데이터셋을 활용하여 꿈
 
 ## 🖼️ 아키텍처
 
-![architecture](![image](https://github.com/user-attachments/assets/53e63dba-f70a-473d-91cb-0f6811730bc8))
+![image](https://github.com/user-attachments/assets/1119173e-c0a5-4fa5-be27-9b09a59215f6)
+
 
 ---
 
 ## 🗃️ DB 구조도
 
-![database](![image](https://github.com/user-attachments/assets/c9ad297f-ef81-4f17-a96a-0674f5f340c7))
+![image](https://github.com/user-attachments/assets/f0597c42-2c9c-4b47-99d4-b132e9fffacb)
+
 
 ---
 
